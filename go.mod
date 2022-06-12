@@ -1,4 +1,4 @@
-module github.com/frostornge/terra-go
+module github.com/cawabunga/terra.go
 
 replace (
 	github.com/CosmWasm/go-cosmwasm => github.com/terra-project/go-cosmwasm v0.10.3

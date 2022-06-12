@@ -4,8 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/frostornge/terra-go"
-	"github.com/frostornge/terra-go/bind"
+	"github.com/cawabunga/terra.go/bind"
 
 	"github.com/airbloc/logger"
 	cosmostypes "github.com/cosmos/cosmos-sdk/types"

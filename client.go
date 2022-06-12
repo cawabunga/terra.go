@@ -1,8 +1,8 @@
 package terra
 
 import (
-	"github.com/frostornge/terra-go/httpclient"
-	"github.com/frostornge/terra-go/service"
+	"github.com/cawabunga/terra.go/httpclient"
+	"github.com/cawabunga/terra.go/service"
 )
 
 var _ Client = (*terraClient)(nil)

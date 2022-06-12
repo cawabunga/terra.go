@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/frostornge/terra-go/httpclient"
+	"github.com/cawabunga/terra.go/httpclient"
 
 	cosmosrpc "github.com/cosmos/cosmos-sdk/client/rpc"
 	"github.com/cosmos/cosmos-sdk/codec"

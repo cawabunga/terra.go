@@ -3,7 +3,7 @@ package market
 import (
 	"context"
 
-	"github.com/frostornge/terra-go/types"
+	"github.com/cawabunga/terra.go/types"
 
 	cosmostypes "github.com/cosmos/cosmos-sdk/types"
 )

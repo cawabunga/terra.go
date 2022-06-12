@@ -4,11 +4,10 @@ import (
 	"context"
 	"testing"
 
+	"github.com/cawabunga/terra.go/httpclient"
+	anchormarket "github.com/cawabunga/terra.go/interface/anchor/money-market/market"
+	"github.com/cawabunga/terra.go/types"
 	cosmostypes "github.com/cosmos/cosmos-sdk/types"
-	"github.com/frostornge/terra-go"
-	"github.com/frostornge/terra-go/httpclient"
-	anchormarket "github.com/frostornge/terra-go/interface/anchor/money-market/market"
-	"github.com/frostornge/terra-go/types"
 	"github.com/tj/assert"
 )
 

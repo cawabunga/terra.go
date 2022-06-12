@@ -9,8 +9,8 @@ import (
 
 	"github.com/cosmos/cosmos-sdk/types/rest"
 
-	"github.com/frostornge/terra-go/httpclient"
-	"github.com/frostornge/terra-go/types"
+	"github.com/cawabunga/terra.go/httpclient"
+	"github.com/cawabunga/terra.go/types"
 
 	"github.com/cosmos/cosmos-sdk/codec"
 	cosmostypes "github.com/cosmos/cosmos-sdk/types"

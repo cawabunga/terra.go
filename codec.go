@@ -1,13 +1,13 @@
 package terra
 
 import (
+	"github.com/cawabunga/terra.go/types"
 	"github.com/cosmos/cosmos-sdk/codec"
 	cosmostypes "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/module"
 	distrclient "github.com/cosmos/cosmos-sdk/x/distribution/client"
 	paramsclient "github.com/cosmos/cosmos-sdk/x/params/client"
 	upgradeclient "github.com/cosmos/cosmos-sdk/x/upgrade/client"
-	"github.com/frostornge/terra-go/types"
 	"github.com/terra-project/core/x/auth"
 	"github.com/terra-project/core/x/auth/vesting"
 	"github.com/terra-project/core/x/bank"

@@ -7,7 +7,7 @@
 ## Install
 
 ``` bash
-$ go get github.com/frostornge/terra-go
+$ go get github.com/cawabunga/terra.go
 ```
 
 ## Packages
@@ -28,9 +28,9 @@ $ go get github.com/frostornge/terra-go
 import (
   "log"
   
-  terra "github.com/frostornge/terra-go"
-  "github.com/frostornge/terra-go/httpclient"
-  "github.com/frostornge/terra-go/types"
+  terra "github.com/cawabunga/terra.go"
+  "github.com/cawabunga/terra.go/httpclient"
+  "github.com/cawabunga/terra.go/types"
   
   "github.com/cosmos/cosmos-sdk/crypto/keys"
   cosmostypes "github.com/cosmos/cosmos-sdk/types"

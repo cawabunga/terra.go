@@ -3,9 +3,8 @@ package market
 import (
 	"context"
 
-	"github.com/frostornge/terra-go"
-	"github.com/frostornge/terra-go/bind"
-	"github.com/frostornge/terra-go/interface/standard/cw20"
+	"github.com/cawabunga/terra.go/bind"
+	"github.com/cawabunga/terra.go/interface/standard/cw20"
 
 	"github.com/airbloc/logger"
 	cosmostypes "github.com/cosmos/cosmos-sdk/types"
